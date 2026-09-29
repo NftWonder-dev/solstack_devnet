@@ -1,0 +1,6 @@
+{
+  "name": "SolStack",
+  "symbol": "SOLSTACK",
+  "description": "Stack $SOLSTACK. Every trade feeds the Stack: part is burned, part is paid to holders in SOL.",
+  "image": "https://raw.githubusercontent.com/NftWonder-dev/solstack_devnet/main/solstack-logo-512.png"
+}
